@@ -1,0 +1,9 @@
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.exe.config
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.exe
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\bin\Debug\CreateReadUpdateDeleteProject.pdb
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.Form1.resources
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.exe
+C:\Users\WINDOWS 10\source\repos\CreateReadUpdateDeleteProject\CreateReadUpdateDeleteProject\obj\Debug\CreateReadUpdateDeleteProject.pdb
